@@ -12,7 +12,7 @@
     "dist",
     "lib",
     "gruntfile.js",
-    "webpack.config"
+    "webpack.config.js"
   ],
   "keywords": [
     "react",
