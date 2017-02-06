@@ -10,7 +10,7 @@
   "files": [
     "*.md",
     "dist",
-    "./gruntfile.js",
+    "gruntfile.js",
     "lib"
   ],
   "keywords": [
