@@ -11,6 +11,7 @@
     "*.md",
     "dist",
     "lib",
+    "src",
     "gruntfile.js",
     "webpack.config.js",
     "webpack.docs.config.js"
