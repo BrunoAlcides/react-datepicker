@@ -10,8 +10,9 @@
   "files": [
     "*.md",
     "dist",
+    "lib",
     "gruntfile.js",
-    "lib"
+    "webpack.config"
   ],
   "keywords": [
     "react",
